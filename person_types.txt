@@ -1,0 +1,22 @@
+22	height
+19	mini biography
+24	spouse
+28	nick names
+21	birth date
+20	birth notes
+17	trivia
+15	quotes
+26	birth name
+39	death notes
+23	death date
+25	other works
+35	interviews
+33	where now
+36	article
+29	books
+32	portrayed in
+38	pictorial
+37	magazine cover photo
+34	trade mark
+31	biographical movies
+27	salary history

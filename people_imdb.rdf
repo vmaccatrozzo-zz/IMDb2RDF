@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://imdb.org/"
+   xmlns:ns2="http://purl.org/dc/elements/1.1/"
+   xmlns:ns3="http://dbpedia.org/ontology/"
+   xmlns:ns4="http://xmlns.com/foaf/0.1/"
+   xmlns:ns5="http://dbpedia.org/ontology/Person/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://imdb.org/article/18268">
+    <rdf:type rdf:resource="http://imdb.org/Article"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/1577995"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Biba"/>
+    <ns2:title>(Zoom) Ben Affleck</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Who">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/Australia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/person/Wakas_Mir">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:name>Mir, Wakas </ns4:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/article/18260">
+    <rdf:type rdf:resource="http://imdb.org/Article"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/staff"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/TV_Guide"/>
+    <ns2:title>Before They Were Stars</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18023">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Premiere"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18037">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Entertainment_Weekly"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/article/18259">
+    <rdf:type rdf:resource="http://imdb.org/Article"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/1666811"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Entertainment_Weekly"/>
+    <ns2:title>Ben 3.0</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/interview/18090">
+    <rdf:type rdf:resource="http://imdb.org/Interview"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/Simon_Braund"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Empire"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Premiere">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/Russia"/>
+    <ns1:country rdf:resource="http://imdb.org/country/USA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18027">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Total_Film"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Movieline">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/USA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/article/18253">
+    <rdf:type rdf:resource="http://imdb.org/Article"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/Adam_B_Vary"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Entertainment_Weekly"/>
+    <ns2:title>Spotlight</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/person/David_Eimer">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:name>Eimer, David </ns4:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/country/USA">
+    <rdf:type rdf:resource="http://imdb.org/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/country/Hungary">
+    <rdf:type rdf:resource="http://imdb.org/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/The_Los_Angeles_Times">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/USA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/interview/18091">
+    <rdf:type rdf:resource="http://imdb.org/Interview"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Empire"/>
+    <ns2:title>Storm Troupers</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/person/Lili_Téli">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:name>Téli, Lili </ns4:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/interview/18073">
+    <rdf:type rdf:resource="http://imdb.org/Interview"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/1078978"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Entertainment_Weekly"/>
+    <ns2:title>Entertainers of the Year</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/interview/18077">
+    <rdf:type rdf:resource="http://imdb.org/Interview"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/Dieter_Oßwald"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Filmstart"/>
+    <ns2:title>Burnout in Hollywood: Ben Affleck</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/article/18255">
+    <rdf:type rdf:resource="http://imdb.org/Article"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/JMB"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Het_Nieuwsblad"/>
+    <ns2:title>Ben Affleck promoot Belgische soja</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/People_Weekly">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/USA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/country/New_Zealand">
+    <rdf:type rdf:resource="http://imdb.org/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/country/Netherlands">
+    <rdf:type rdf:resource="http://imdb.org/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18028">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Entertainment_Weekly"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/program/1147983">
+    <rdf:type rdf:resource="http://imdb.org/Portray"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Playboy">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/USA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18034">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Entertainment_Weekly"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/article/18264">
+    <rdf:type rdf:resource="http://imdb.org/Article"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/Jenny_Cooney_Carrillo"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/New_Zealand_TV_Guide"/>
+    <ns2:title>Ben Bounces back to Gwyneth</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Empire">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/UK"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/country/Finland">
+    <rdf:type rdf:resource="http://imdb.org/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/article/18269">
+    <rdf:type rdf:resource="http://imdb.org/Article"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/1246844"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Movieline"/>
+    <ns2:title>Party Of Five</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/YM">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/USA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/pictorial/18234">
+    <rdf:type rdf:resource="http://imdb.org/Pictorial"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/In_Style"/>
+    <ns2:title>Die Liebe is ein seltsames Spiel</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/TV_GUide">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/USA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/person/Hiver't_Uzsi">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:name>Uzsi, Hiver't </ns4:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18056">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Time_Out_New_York"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/interview/18092">
+    <rdf:type rdf:resource="http://imdb.org/Interview"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/The_Scottish_Express_Magazine"/>
+    <ns2:title>Smart Affleck</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Time_Out_New_York">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/USA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/interview/18081">
+    <rdf:type rdf:resource="http://imdb.org/Interview"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/Martin_Karen"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/person/Martin_Karen"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Widescreen"/>
+    <ns2:title>Ich muss versuchen</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Hunks">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/UK"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Het_Nieuwsblad">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/Belgium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Total_Film">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/UK"/>
+    <ns1:country rdf:resource="http://imdb.org/country/Hungary"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/pictorial/18240">
+    <rdf:type rdf:resource="http://imdb.org/Pictorial"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/1634730"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Playboy"/>
+    <ns2:title>Sex In Cinema 1997</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18054">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Entertainment_Weekly"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/interview/18087">
+    <rdf:type rdf:resource="http://imdb.org/Interview"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/Jenny_Cooney_Carrillo"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Urban_Cinefile"/>
+    <ns2:title>Ben Affleck: Pearl Harbor</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/People">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/USA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/article/18247">
+    <rdf:type rdf:resource="http://imdb.org/Article"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/284178"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Entertainment_Weekly"/>
+    <ns2:title>Entertainers of the Year</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/interview/18093">
+    <rdf:type rdf:resource="http://imdb.org/Interview"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/1431320"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Starlog"/>
+    <ns2:title>Good Asteroid Hunting</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/article/18250">
+    <rdf:type rdf:resource="http://imdb.org/Article"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/751682"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Newsday"/>
+    <ns2:title>Jennifer Garner Names Daughter Seraphina</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/interview/18084">
+    <rdf:type rdf:resource="http://imdb.org/Interview"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/3257"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Total_Film"/>
+    <ns2:title>Truth or Dare</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/person/Dotson_Rader">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:name>Rader, Dotson </ns4:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/article/18251">
+    <rdf:type rdf:resource="http://imdb.org/Article"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/AP"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/The_Sydney_Morning_Herald"/>
+    <ns2:title>Garner and Affleck parents again</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/country/UK">
+    <rdf:type rdf:resource="http://imdb.org/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/person/Roland_Huschke">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:name>Huschke, Roland </ns4:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/interview/18094">
+    <rdf:type rdf:resource="http://imdb.org/Interview"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/3860514"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Evening_Standard_Hot_Tickets"/>
+    <ns2:title>Ben addiction</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/pictorial/18238">
+    <rdf:type rdf:resource="http://imdb.org/Pictorial"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/Martine_Tartour"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Cosmopolitan"/>
+    <ns2:title>Mâles vus</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18052">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/The_Advocate"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/article/18266">
+    <rdf:type rdf:resource="http://imdb.org/Article"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/11485"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Premiere"/>
+    <ns2:title>Adventures In The Celebrity Trade</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/article/18263">
+    <rdf:type rdf:resource="http://imdb.org/Article"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/316454"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/OK!"/>
+    <ns2:title>Hollywood's latest showbiz couple - J.Lo and Ben Affleck</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18018">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Veronica"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/pictorial/18229">
+    <rdf:type rdf:resource="http://imdb.org/Pictorial"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/Sebastian_Kim"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/GQ"/>
+    <ns2:title>GQ Men of the Year</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Starlog">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/USA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18022">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Entertainment_Weekly"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Us">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/USA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18026">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Empire"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Star">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/USA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Joy">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/Hungary"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Talk">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/USA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/person/Arifa_Akbar">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:name>Akbar, Arifa </ns4:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Entertainment_Weekly">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/USA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Biba">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18015">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/GQ"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Ciak">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/Italy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/person/Simon_Braund">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:name>Braund, Simon </ns4:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/person/Sebastian_Kim">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:name>Kim, Sebastian </ns4:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/The_Sydney_Morning_Herald">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/Australia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/article/18261">
+    <rdf:type rdf:resource="http://imdb.org/Article"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/Miwa_Hirai"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/TimeOut"/>
+    <ns2:title>The Man Without Fear</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/article/18273">
+    <rdf:type rdf:resource="http://imdb.org/Article"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/Rebecca_Ascher-Walsh"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Entertainment_Weekly"/>
+    <ns2:title>Faces Of The Oscars: Good Will Hunting</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/interview/18088">
+    <rdf:type rdf:resource="http://imdb.org/Interview"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/David_Eimer"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/The_Times_Magazine"/>
+    <ns2:title>Smart Affleck</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/country/Greece">
+    <rdf:type rdf:resource="http://imdb.org/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18046">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Evening_Standard_Hot_Tickets"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/person/Adam_B_Vary">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:name>Vary, Adam B </ns4:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/country/Germany">
+    <rdf:type rdf:resource="http://imdb.org/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/The_Advocate">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/USA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/pictorial/18239">
+    <rdf:type rdf:resource="http://imdb.org/Pictorial"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/Gretchen_Edgren"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Playboy"/>
+    <ns2:title>Sex Stars of 1998</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/article/18257">
+    <rdf:type rdf:resource="http://imdb.org/Article"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/2230483"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/The_Los_Angeles_Times"/>
+    <ns2:title>Ben's Big Fall</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18017">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Rolling_Stone"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18025">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Cinema"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18048">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Details"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Widescreen">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/Germany"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/The_Scottish_Express_Magazine">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/Scotland"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/person/AP">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:name>AP</ns4:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/country/Japan">
+    <rdf:type rdf:resource="http://imdb.org/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/person/person/Martin_Karen">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:name>Silke, Tittel </ns4:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/The_Times_Magazine">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/UK"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/article/18265">
+    <rdf:type rdf:resource="http://imdb.org/Article"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/In_Style"/>
+    <ns2:title>Die Liebe is ein seltsames Spiel</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/person/Dieter_Oßwald">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:name>Oßwald, Dieter </ns4:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/country/Australia">
+    <rdf:type rdf:resource="http://imdb.org/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/pictorial/18236">
+    <rdf:type rdf:resource="http://imdb.org/Pictorial"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/Lili_Téli"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Joy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/interview/18080">
+    <rdf:type rdf:resource="http://imdb.org/Interview"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/1415024"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/11485"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Premiere"/>
+    <ns2:title>I'll Show You Mine If You Show Me Yours</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/person/Lael_Loewenstein">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:name>Loewenstein, Lael </ns4:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18031">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Cinema"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/BLUSH">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/South_Africa"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/article/18252">
+    <rdf:type rdf:resource="http://imdb.org/Article"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/Dotson_Rader"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Parade"/>
+    <ns2:title>'My life had to change'</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/person/staff">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:name>staff</ns4:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/AD_Magazine">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/Netherlands"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/person/Ileane_Rudolph">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:name>Rudolph, Ileane </ns4:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18040">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Vanity_Fair"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/interview/18086">
+    <rdf:type rdf:resource="http://imdb.org/Interview"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/Roland_Huschke"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Cinema"/>
+    <ns2:title>Clever&amp;Smart</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/article/18248">
+    <rdf:type rdf:resource="http://imdb.org/Article"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/Arifa_Akbar"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/The_Independent"/>
+    <ns2:title>Damon and Affleck set for Hollywood reunion</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/person/Rebecca_Ascher-Walsh">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:name>Ascher-Walsh, Rebecca </ns4:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18045">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Premiere"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Vox">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/Hungary"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/program/384198">
+    <rdf:type rdf:resource="http://imdb.org/Portray"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Vanity_Fair">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/USA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/7_Dimanche">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/Belgium"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18042">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/The_Scottish_Express_Magazine"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/person/Martine_Tartour">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:name>Tartour, Martine </ns4:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/person/Daniel_Fierman">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:name>Fierman, Daniel </ns4:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18019">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/AD_Magazine"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/OK!">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/UK"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/country/South_Africa">
+    <rdf:type rdf:resource="http://imdb.org/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/In_Style">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/Germany"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18035">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Talk"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/article/18270">
+    <rdf:type rdf:resource="http://imdb.org/Article"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/Péter_Rátky"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Max"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/TimeOut">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/Japan"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18055">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/GQ"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/GQ">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/USA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/article/18271">
+    <rdf:type rdf:resource="http://imdb.org/Article"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Premiere"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/TV_Guide">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/USA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Detour">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/USA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18041">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Film_Review"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/article/18267">
+    <rdf:type rdf:resource="http://imdb.org/Article"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/3277003"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Total_Film"/>
+    <ns2:title>#6 Matt Damon és Ben Affleck</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/article/18274">
+    <rdf:type rdf:resource="http://imdb.org/Article"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/185416"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Premiere"/>
+    <ns2:title>Boston Uncommon</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Süddeutsche_Zeitung">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/Germany"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/person/Jenny_Cooney_Carrillo">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:name>Carrillo, Jenny Cooney </ns4:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18053">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Who"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/article/18254">
+    <rdf:type rdf:resource="http://imdb.org/Article"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/Hannah_Tucker"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Entertainment_Weekly"/>
+    <ns2:title>Role Reversal</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/interview/18078">
+    <rdf:type rdf:resource="http://imdb.org/Interview"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/3797057"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/The_Independent_Newspaper_Extra"/>
+    <ns2:title>Cape Fear</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/article/18272">
+    <rdf:type rdf:resource="http://imdb.org/Article"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/4097336"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/BLUSH"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/interview/18097">
+    <rdf:type rdf:resource="http://imdb.org/Interview"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/739709"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Us"/>
+    <ns2:title>Ben Affleck</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18051">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/People_Weekly"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Film_Comment">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/USA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/person/Hannah_Tucker">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:name>Tucker, Hannah </ns4:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Evening_Standard_Hot_Tickets">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/UK"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/The_Independent_Arts_&amp;_Books_Review">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/UK"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/interview/18075">
+    <rdf:type rdf:resource="http://imdb.org/Interview"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/11773"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/The_Independent_Arts_&amp;_Books_Review"/>
+    <ns2:title>The problem with Ben</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18050">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Entertainment_Weekly"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/person/Alan_Frutkin">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:name>Frutkin, Alan </ns4:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Cinema">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/Germany"/>
+    <ns1:country rdf:resource="http://imdb.org/country/Hungary"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18030">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Ciak"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Cosmopolitan">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/France"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/USA_Weekend">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/USA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/person/Harald_Hordych">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:name>Hordych, Harald </ns4:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/pictorial/18230">
+    <rdf:type rdf:resource="http://imdb.org/Pictorial"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/TVFilm"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18038">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Premiere"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/pictorial/18235">
+    <rdf:type rdf:resource="http://imdb.org/Pictorial"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/Hiver't_Uzsi"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Joy"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/country/Russia">
+    <rdf:type rdf:resource="http://imdb.org/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/article/18276">
+    <rdf:type rdf:resource="http://imdb.org/Article"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/185416"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Premiere"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18020">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Cinesillogi"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/article/18262">
+    <rdf:type rdf:resource="http://imdb.org/Article"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/2211386"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/TV_Guide"/>
+    <ns2:title>The Daredevil Inside</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18014">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Entertainment_Weekly"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Filmstart">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/Germany"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/interview/18076">
+    <rdf:type rdf:resource="http://imdb.org/Interview"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/Harald_Hordych"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Süddeutsche_Zeitung"/>
+    <ns2:title>Ben Affleck über Rückschläge</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/pictorial/18231">
+    <rdf:type rdf:resource="http://imdb.org/Pictorial"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/1246844"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Playboy"/>
+    <ns2:title>Sex in Cinema 2007</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Cinesillogi">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/Greece"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18032">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/American_Cinematographer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18039">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Film_Comment"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/program/152579">
+    <rdf:type rdf:resource="http://imdb.org/Portray"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/interview/18083">
+    <rdf:type rdf:resource="http://imdb.org/Interview"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/Martin_Karen"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/person/Martin_Karen"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Widescreen"/>
+    <ns2:title>Daredevil ist eher ein Experiment</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18021">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/TV_GUide"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18016">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/USA_Weekend"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/pictorial/18232">
+    <rdf:type rdf:resource="http://imdb.org/Pictorial"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/7_Dimanche"/>
+    <ns2:title>Ces mères qui ont forgé le destin de leur enfant</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/person/11485">
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18052"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18031"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18020"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18015"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18014"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18018"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18023"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18037"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18032"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18039"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18027"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18021"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18022"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18026"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18053"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18042"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18019"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18033"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18035"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18028"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18044"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18034"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18055"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18047"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18040"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18041"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18046"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18024"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18049"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18036"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18017"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18056"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18025"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18051"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18048"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18054"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18050"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18016"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18043"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18030"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18045"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18038"/>
+    <ns1:magazineCoverPhoto rdf:resource="http://imdb.org/magazineCoverPhoto/18029"/>
+    <ns1:portrayedIn rdf:resource="http://imdb.org/program/152579"/>
+    <ns1:portrayedIn rdf:resource="http://imdb.org/program/384198"/>
+    <ns1:portrayedIn rdf:resource="http://imdb.org/program/1147983"/>
+    <ns1:otherWork>(2002) Theatrical commercial, Los Angeles Times (narrator for 'Cheung-Yan Yuen' (qv) commercial)</ns1:otherWork>
+    <ns1:otherWork>TV commercial for Burger King (1989)</ns1:otherWork>
+    <ns1:otherWork>Promo for voting: "Declair Yourself" on Comedy Central, directed by 'Kevin Smith (I)' (qv), with 'Donna Pieroni' (qv) as "Utta".</ns1:otherWork>
+    <ns1:otherWork>Advert: Loreal (2003)</ns1:otherWork>
+    <ns1:otherWork>TV commercial for Loreal hair care products.</ns1:otherWork>
+    <ns1:otherWork>TV commercial for "Alpro" soja foods (2000)</ns1:otherWork>
+    <ns1:otherWork>TV commercial for AXE Click (2006). The commercial was directed by 'Paul Cameron (II)' (qv), produced by 'Daniel Kleinman' (qv) and was filmed in Los Angeles.</ns1:otherWork>
+    <ns1:otherWork>Radio commercial for Samuel Adams (2001)</ns1:otherWork>
+    <ns1:otherWork>Appeared in 2007 on YouTube video called "Project Phin: Clean My Ride, Flex My Fuel", with 'Sarah Silverman' (qv) to lobby Congress.</ns1:otherWork>
+    <ns1:otherWork>Print ad for Morelatto</ns1:otherWork>
+    <ns1:otherWork>Appeared in music video "Jenny from the Block" by 'Jennifer Lopez (I)' (qv)</ns1:otherWork>
+    <ns1:otherWork>Provides commentary on DVD for _Chasing Amy (1997)_ (qv).</ns1:otherWork>
+    <ns1:otherWork>Provides commentary on DVD for _Good Will Hunting (1997)_ (qv).</ns1:otherWork>
+    <ns1:otherWork>Provides commentary on Criterion DVD for _Armageddon (1998)_ (qv).</ns1:otherWork>
+    <ns3:salary>_Chasing Amy (1997)_ (qv)::$7,000 (USA)</ns3:salary>
+    <ns3:salary>_Daredevil (2003)_ (qv)::$11,500,000 + gross participations</ns3:salary>
+    <ns3:salary>_Daddy (1991) (TV)_ (qv)::$20,000 (USA)</ns3:salary>
+    <ns3:salary>_Field of Dreams (1989)_ (qv)::$30</ns3:salary>
+    <ns3:salary>_Jersey Girl (2004)_ (qv)::$10,000,000</ns3:salary>
+    <ns3:salary>_Bounce (2000)_ (qv)::$12,500,000</ns3:salary>
+    <ns3:salary>_The Sum of All Fears (2002)_ (qv)::$10,000,000</ns3:salary>
+    <ns3:salary>_Pearl Harbor (2001)_ (qv)::$250,000</ns3:salary>
+    <ns3:salary>_Reindeer Games (2000)_ (qv)::$6,000,000</ns3:salary>
+    <ns3:salary>_Pearl Harbor (2001)_::$10,000,000 ($250,000 salary + 7% backend participation)</ns3:salary>
+    <ns3:salary>_Armageddon (1998)_::$600,000 (USA)</ns3:salary>
+    <ns3:salary>_Good Will Hunting (1997)_ (qv)::$300,000 (split $600,000 script sale with Matt Damon)</ns3:salary>
+    <ns3:salary>_Gigli (2003)_ (qv)::$12,500,000</ns3:salary>
+    <ns3:salary>_Changing Lanes (2002)_ (qv)::$10,000,000</ns3:salary>
+    <ns3:salary>_Hollywoodland (2006)_ (qv)::$2,800,000</ns3:salary>
+    <ns3:salary>_School Ties (1992)_ (qv)::$30,000 (USA)</ns3:salary>
+    <ns3:salary>_Paycheck (2003)_ (qv)::$15,000,000</ns3:salary>
+    <ns5:height>6' 3 1/2"</ns5:height>
+    <ns3:spouse rdf:resource="http://imdb.org/person/1980878"/>
+    <ns4:name>Affleck, Ben</ns4:name>
+    <ns4:gender>Male</ns4:gender>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns1:tradeMark>Frequently plays arrogant and ruthless characters</ns1:tradeMark>
+    <ns1:tradeMark>Opens his films with narration or title cards</ns1:tradeMark>
+    <ns1:tradeMark>Often works with brother Casey Affleck and friend Matt Damon</ns1:tradeMark>
+    <ns1:tradeMark>His films often feature corrupt but well meaning law enforcement figures</ns1:tradeMark>
+    <ns1:tradeMark>Frequently sets his films in his hometown of Boston</ns1:tradeMark>
+    <ns1:tradeMark>His films often focus on characters caught in situations out of their depth</ns1:tradeMark>
+    <ns1:birth_place>Berkeley, California, USA</ns1:birth_place>
+    <ns1:interview rdf:resource="http://imdb.org/interview/18073"/>
+    <ns1:interview rdf:resource="http://imdb.org/interview/18086"/>
+    <ns1:interview rdf:resource="http://imdb.org/interview/18076"/>
+    <ns1:interview rdf:resource="http://imdb.org/interview/18083"/>
+    <ns1:interview rdf:resource="http://imdb.org/interview/18091"/>
+    <ns1:interview rdf:resource="http://imdb.org/interview/18074"/>
+    <ns1:interview rdf:resource="http://imdb.org/interview/18077"/>
+    <ns1:interview rdf:resource="http://imdb.org/interview/18095"/>
+    <ns1:interview rdf:resource="http://imdb.org/interview/18079"/>
+    <ns1:interview rdf:resource="http://imdb.org/interview/18078"/>
+    <ns1:interview rdf:resource="http://imdb.org/interview/18090"/>
+    <ns1:interview rdf:resource="http://imdb.org/interview/18088"/>
+    <ns1:interview rdf:resource="http://imdb.org/interview/18080"/>
+    <ns1:interview rdf:resource="http://imdb.org/interview/18092"/>
+    <ns1:interview rdf:resource="http://imdb.org/interview/18097"/>
+    <ns1:interview rdf:resource="http://imdb.org/interview/18081"/>
+    <ns1:interview rdf:resource="http://imdb.org/interview/18082"/>
+    <ns1:interview rdf:resource="http://imdb.org/interview/18075"/>
+    <ns1:interview rdf:resource="http://imdb.org/interview/18087"/>
+    <ns1:interview rdf:resource="http://imdb.org/interview/18093"/>
+    <ns1:interview rdf:resource="http://imdb.org/interview/18096"/>
+    <ns1:interview rdf:resource="http://imdb.org/interview/18089"/>
+    <ns1:interview rdf:resource="http://imdb.org/interview/18084"/>
+    <ns1:interview rdf:resource="http://imdb.org/interview/18094"/>
+    <ns1:interview rdf:resource="http://imdb.org/interview/18085"/>
+    <ns1:trivia>Majored in Middle Eastern affairs in college.</ns1:trivia>
+    <ns1:trivia>Owns vintage Ms. Pac-Man and Millipede video-arcade games.</ns1:trivia>
+    <ns1:trivia>His wife, 'Jennifer Garner (I)' (qv), gave birth to daughter, Violet Anne, on December 1, 2005, to Seraphina Rose Elizabeth on January 6, 2009 and to Samuel Garner Affleck on 27 February 2012. All were born in Los Angeles, California.</ns1:trivia>
+    <ns1:trivia>'Tom Clancy (I)' (qv) wrote a script for a new Jack Ryan film entitled "Red Rabbit", with him in mind. "Red Rabbit" is set in the early 1980s, (when Clancy's novel version of Ryan was about Affleck's age) and chronicles a Soviet plot to kill Pope John Paul II only a few years into his reign.</ns1:trivia>
+    <ns1:trivia>Has a fear of flying.</ns1:trivia>
+    <ns1:trivia>Is an avid fan of 'Robert Englund' (qv).</ns1:trivia>
+    <ns1:trivia>Is a staunch Democrat and has supported Senator 'John Kerry (III)' (qv)'s 2004 presidential campaign.</ns1:trivia>
+    <ns1:trivia>(31 July 2001) Voluntarily entered Promises Rehabilitation Center in Malibu, California for alcohol abuse.</ns1:trivia>
+    <ns1:trivia>He was accidently knocked unconscious by football player 'Dana Stubblefield' (qv) during the filming of _Reindeer Games (2000)_ (qv). Stubblefield slipped, and Affleck was knocked down. He was taken to the hospital, but fully recovered.</ns1:trivia>
+    <ns1:trivia>Dec. 2007 - Ranked 50 in EW's The 50 Smartest People In Hollywood.</ns1:trivia>
+    <ns1:trivia>Is a fan of the Red Sox baseball team</ns1:trivia>
+    <ns1:trivia>Growing up, the Marvel Comic book character Daredevil was his hero. He got to play the character in the 2003 movie.</ns1:trivia>
+    <ns1:trivia>Appeared in a prop photo used in the movie _Mermaids (1990)_ (qv).</ns1:trivia>
+    <ns1:trivia>At age 25, he was the youngest person ever to win an Oscar for 'Best Original Screenplay'.</ns1:trivia>
+    <ns1:trivia>Ranked #41 in Premiere's 2003 annual Power 100 List.</ns1:trivia>
+    <ns1:trivia>(2000) Chosen as one of People Magazine's 50 Most Beautiful People in the World</ns1:trivia>
+    <ns1:trivia>When he was little, he asked his mom for a dog, and she tested him by making him walk an imaginary dog for a week. Ben only lasted for 5 days and didn't get the dog.</ns1:trivia>
+    <ns1:trivia>Graduated from Cambridge Rindge and Latin High School in 1990.</ns1:trivia>
+    <ns1:trivia>Turned down the part of Bobby Mercer in _Four Brothers (2005)_ (qv), as he found the script to be "ultra-violent". The part eventually went to 'Mark Wahlberg (I)' (qv).</ns1:trivia>
+    <ns1:trivia>Was considered for the role of Billy Loomis in _Scream (1996)_ (qv).</ns1:trivia>
+    <ns1:trivia>Quit smoking when Violet was born.</ns1:trivia>
+    <ns1:trivia>Has his teeth capped.</ns1:trivia>
+    <ns1:trivia>Auditioned for 'Corey Haim' (qv)'s part in _License to Drive (1988)_ (qv).</ns1:trivia>
+    <ns1:trivia>Had four different stunt men for _Daredevil (2003)_ (qv), each one with a different specialty (fighting, wire works, etc.). He tried to do as much of his own stunts as he possibly could, feeling that it would add more credibility to the film.</ns1:trivia>
+    <ns1:trivia>When he was dating 'Jennifer Lopez (I)' (qv), hated the paparazzi referring to them as "Bennifer."</ns1:trivia>
+    <ns1:trivia>He and his wife, 'Jennifer Garner (I)' (qv), both had movies open on January 26 2007: his was _Smokin' Aces (2006)_ (qv) and hers was _Catch and Release (2006/II)_ (qv).</ns1:trivia>
+    <ns1:trivia>Prior to achieving leading man status, he was often cast as a bully.</ns1:trivia>
+    <ns1:trivia>(November 11, 2008) Attended the star-studded opening of Dubai's lavish Atlantis Palms resort. Guests were welcomed in style with a display of one million fireworks, said to be visible from space.</ns1:trivia>
+    <ns1:trivia>Speaks Spanish and French.</ns1:trivia>
+    <ns1:trivia>Named People Magazine's "Sexiest Man Alive" (2002)</ns1:trivia>
+    <ns1:trivia>Has directed 3 actors in Oscar-nominated performances: 'Amy Ryan (I)' (qv), 'Jeremy Renner' (qv), and 'Alan Arkin' (qv).</ns1:trivia>
+    <ns1:trivia>The first director ever to win both the Golden Globe and the Directors Guild awards for Best Director after failing to earn an Oscar nomination for the same work, for _Argo (2012)_ (qv).</ns1:trivia>
+    <ns1:trivia>Ben and 'Jennifer Garner (I)' (qv) are expecting their third child [August 22, 2011].</ns1:trivia>
+    <ns1:trivia>In 1999, he was nominated for the Razzie Award, Worst Screen Couple in the movie _Armageddon (1998)_ (qv), with actress 'Liv Tyler' (qv). In 2004, he was again nominated for, and subsequently "won", the Worst Screen Couple Award with co-star 'Jennifer Lopez (I)' (qv) in the movie _Gigli (2003)_ (qv). One year later (2005), he was nominated, once again, for Worst Screen Couple, this time with both of the actresses ('Jennifer Lopez (I)' (qv) or 'Liv Tyler' (qv)) in the film _Jersey Girl (2004)_ (qv).</ns1:trivia>
+    <ns1:trivia>At one point after _Good Will Hunting (1997)_ (qv) was released, Affleck was writing a script with 'Matt Damon' (qv) and his brother 'Casey Affleck' (qv). The plot concerned teenagers in a half way house. It is not clear if this script will ever be completed.</ns1:trivia>
+    <ns1:trivia>Was to have cameos in two 'Kevin Smith (I)' (qv) produced movies but had to back out due to scheduling conflicts. The two movies were _Vulgar (2000)_ (qv) and _Big Helium Dog (1999)_ (qv).</ns1:trivia>
+    <ns1:trivia>With the exception of _Clerks. (1994)_ (qv), he has appeared in all of 'Kevin Smith (I)' (qv)'s View Askewniverse films.</ns1:trivia>
+    <ns1:trivia>Appeared with wife 'Jennifer Garner (I)' (qv) in two movies _Daredevil (2003)_ (qv) and _Pearl Harbor (2001)_ (qv). It would have been three, but Affleck's small scene in _Elektra (2005)_ (qv), was cut from the final film.</ns1:trivia>
+    <ns1:trivia>(1999) Chosen as one of People Magazine's Most Beautiful People in the World</ns1:trivia>
+    <ns1:trivia>Winner of the 2006 Venice Film Festival's Volpi Cup for Best Actor for his role in "Hollywoodland".</ns1:trivia>
+    <ns1:trivia>Is a first-time uncle to younger brother Casey's son, Indiana August, who was born on May 31, 2004 in Amsterdam, to Casey and his fiancé, actress 'Summer Phoenix' (qv).</ns1:trivia>
+    <ns1:trivia>In the fall of 2003, he volunteered to spend several days with children with disabilities.</ns1:trivia>
+    <ns1:trivia>Confirms engagement to 'Jennifer Lopez (I)' (qv), after giving her a reported $3.5 million ring. (Nov. 2002)</ns1:trivia>
+    <ns1:trivia>He learned to speak Arabic.</ns1:trivia>
+    <ns1:trivia>Older brother of actor 'Casey Affleck' (qv).</ns1:trivia>
+    <ns1:trivia>Is known for being a very good impressionist. He usually picks one of his costars while filming a movie and studies them. He displays his impressions on _"The Tonight Show with Jay Leno" (1992)_ (qv) almost every time he is a guest. While filming _The Sum of All Fears (2002)_ (qv), he chose to study co-star 'Morgan Freeman (I)' (qv). When he showed Morgan his impression on set, it was so accurate Freeman told him, "You ever do that again, I'll kill you".</ns1:trivia>
+    <ns1:trivia>Owns 5 motorcycles.</ns1:trivia>
+    <ns1:trivia>Lives in Pacific Palisades, California.</ns1:trivia>
+    <ns1:trivia>Was originally set to play "Don Haskins" in _Glory Road (2006)_ (qv), but pulled out of the project due to scheduling conflicts.</ns1:trivia>
+    <ns1:trivia>He and 'Matt Damon' (qv) sold their _Good Will Hunting (1997)_ (qv) script for $600,000.</ns1:trivia>
+    <ns1:trivia>Besides being known as the title character in the Daredevil franchise, is also known as Superman in the George Reeves bio-pic "Hollywoodland".</ns1:trivia>
+    <ns1:trivia>Friend of and frequent collaborator with actor 'Matt Damon' (qv).</ns1:trivia>
+    <ns1:trivia>Was an extra with friend 'Matt Damon' (qv) in _Field of Dreams (1989)_ (qv).</ns1:trivia>
+    <ns1:trivia>Ranked #77 in Premiere's 2002 annual Power 100 List.</ns1:trivia>
+    <ns1:trivia>His mother is Irish and father is Scottish.</ns1:trivia>
+    <ns1:trivia>He won $356,000 by winning the California State Poker Championships in June 2004 - defeating some of the best poker players in the world in the process.</ns1:trivia>
+    <ns1:trivia>Since the Directors Guild started awarding its DGA award for Best Director in 1948, Affleck is only the third director to ever win this award while also failing to even be nominated for an Oscar as Best Director. The two other directors likewise snubbed by Academy voters were 'Ron Howard (I)' (qv) for _Apollo 13 (1995)_ (qv) and 'Steven Spielberg' (qv) for _The Color Purple (1985)_ (qv).</ns1:trivia>
+    <ns1:trivia>As a teenager, he lived in México where he learned to speak Spanish.</ns1:trivia>
+    <ns1:trivia>(1999) Fined $135 for driving in Massachusetts with a suspended license.</ns1:trivia>
+    <ns1:trivia>Has a Boston Celtics logo painted on the basketball court at his house.</ns1:trivia>
+    <ns1:trivia>Dropped out of the University of Vermont after 1 semester.</ns1:trivia>
+    <ns1:trivia>As of 2005, has a total of seven Razzie Nominations (including three for Worst Actor) and two "wins".</ns1:trivia>
+    <ns1:trivia>'Jennifer Lopez (I)' (qv) wrote the song "Dear Ben" about him and how much she loved him.</ns1:trivia>
+    <ns1:trivia>2002: Voted Most Eligible Bachelor by People Magazine.</ns1:trivia>
+    <ns1:trivia>Dropped out of Occidental College after 1 year, where he had studied Middle Eastern studies.</ns1:trivia>
+    <ns1:trivia>Claims that his hero is 'Harrison Ford (I)' (qv).</ns1:trivia>
+    <ns1:trivia>He was inspired to contribute to the Neil Bogart Memorial Fund, which supports cancer research at Los Angeles Children's Hospital, after meeting Molly Hanna, who died of cancer in 2002. She was a student in his mother's fifth-grade class.</ns1:trivia>
+    <ns1:trivia>'Charlie Sheen' (qv) drove him to Promises Rehabilitation Center in August, 2001</ns1:trivia>
+    <ns1:trivia>When he and best friend 'Matt Damon' (qv) were struggling actors, they both shared a Boston bank account.</ns1:trivia>
+    <ns1:trivia>Is getting paid $1.5 million dollars for doing commercials for L'Oreal Shampoo. (2003)</ns1:trivia>
+    <ns1:trivia>In 2001, was filming four movies simultaneously: _Pearl Harbor (2001)_ (qv), _Jay and Silent Bob Strike Back (2001)_ (qv), _Changing Lanes (2002)_ (qv), and _The Sum of All Fears (2002)_ (qv).</ns1:trivia>
+    <ns1:trivia>(November 2008) Since late 2007 he has made four separate trips to the Democratic Republic of Congo to bring attention to the plight of that country.</ns1:trivia>
+    <ns1:trivia>His father was at one time a janitor at Harvard University, the inspiration for Will Hunting's job at MIT in _Good Will Hunting (1997)_ (qv).</ns1:trivia>
+    <ns1:trivia>He has an entry in 'Jean Tulard' (qv)'s "Dictionnaire du Cinéma/Les Acteurs", published in Paris in 2007 (pgs. 15/16).</ns1:trivia>
+    <ns1:biography>Benjamin Geza Affleck was born on August 15, 1972 in Berkeley, California, USA but raised in Cambridge, Massachusetts, USA. He was born to parents Tim Affleck, a social worker, who is now divorced from Ben's mother Chris Affleck (nee' Boldt) a school teacher. Ben also has a younger brother, actor 'Casey Affleck' (qv), who was born in 1975. Ben wanted to be an actor ever since he could remember and his first acting experience was for a Burger King commercial, when he was on the PBS mini-series _"The Voyage of the Mimi" (1984)_ (qv). It was also at that age when Ben met his lifelong friend and fellow actor, 'Matt Damon' (qv). They played little league together and took drama classes together. Ben's teen years consisted of mainly TV movies and small television appearances including _Hands of a Stranger (1987) (TV)_ (qv) and _"The Second Voyage of the Mimi" (1988)_ (qv). He made his big introduction into feature films in 1993 when he was cast in _Dazed and Confused (1993)_ (qv). After that, he did mostly independent films like 'Kevin Smith (I)' (qv)'s _Mallrats (1995)_ (qv) and _Chasing Amy (1997)_ (qv) which were great for Ben's career, receiving renowned appreciation for his works at the Sundance film festival. But the success he was having in independent films didn't last much longer and things got a little shaky for Ben. He was living in an apartment with his brother Casey and friend Matt, getting tired of being turned down for the big roles in films and being given the forgettable supporting ones. Since Matt was having the same trouble, they decided to write their own script, where they could call all the shots. So, after finishing the script for _Good Will Hunting (1997)_ (qv), they gave it to their agent 'Patrick Whitesell' (qv), who showed it to a few Hollywood studios, finally being accepted by Castlerock. It was great news for the two but Castlerock wasn't willing to give Ben and Matt the control over the project they were hoping for. It was friend 'Kevin Smith (I)' (qv) who took it to the head of Miramax who bought the script giving Ben and Matt the control they wanted and, in December of 1997, _Good Will Hunting (1997)_ (qv) was released, making the two unknown actors famous. The film was nominated for 9 Academy Awards and won two, including Best Original Screenplay for Ben and Matt. The film marked Ben's breakthrough role, in which he was given for the first time the chance to choose roles instead of having to go through grueling auditions constantly. He chose such roles in the blockbusters _Armageddon (1998)_ (qv), _Shakespeare in Love (1998)_ (qv) and _Pearl Harbor (2001)_ (qv). With these hits to his credit, Hollywood can't seem to get enough of Ben, with directors wanting him in their movies and companies wanting his screenplays. His inspirational story of hard work and amazing climb to the top has brought him what he deserves and Ben Affleck has shown no sign of slowing down.</ns1:biography>
+    <ns1:pictorial rdf:resource="http://imdb.org/pictorial/18234"/>
+    <ns1:pictorial rdf:resource="http://imdb.org/pictorial/18240"/>
+    <ns1:pictorial rdf:resource="http://imdb.org/pictorial/18237"/>
+    <ns1:pictorial rdf:resource="http://imdb.org/pictorial/18231"/>
+    <ns1:pictorial rdf:resource="http://imdb.org/pictorial/18239"/>
+    <ns1:pictorial rdf:resource="http://imdb.org/pictorial/18229"/>
+    <ns1:pictorial rdf:resource="http://imdb.org/pictorial/18238"/>
+    <ns1:pictorial rdf:resource="http://imdb.org/pictorial/18232"/>
+    <ns1:pictorial rdf:resource="http://imdb.org/pictorial/18230"/>
+    <ns1:pictorial rdf:resource="http://imdb.org/pictorial/18233"/>
+    <ns1:pictorial rdf:resource="http://imdb.org/pictorial/18235"/>
+    <ns1:pictorial rdf:resource="http://imdb.org/pictorial/18236"/>
+    <ns1:quotes>[on tabloid coverage of his life] It feels like being in a soap opera that you were unwittingly cast in and you have no choice about it. I get to watch my life like everyone else and think. "I can't believe they did that". And, for whatever reason, you become less special for movie audiences. It cheapens the brand if you want to look at it in a really crass sense. But I figure it has to go away at some point. Eventually someone will come along and have a sex tape or someone will play grab-ass with some kids and I'll be off page one.</ns1:quotes>
+    <ns1:quotes>When I got to L.A., my family had me go to dinner with this guy who had been acting here for 20 years. He gave me this big lecture and said, "You know how much money I made in 20 years of acting? Eight thousand dollars. And I'm a carpenter." He was just really unhappy and it was depressing. Then he got really stoned and I went home and felt sick. I think it was just morbid fear. I was 18. That fear stays with you so intensely and you're constantly just getting turned down for what you think of as the most vapid, stupid kind of paycheck, _"Baywatch" (1989)_ (qv) things, and you think, "Jesus, if I'm not good enough for this, then I'm not going to make it". This town is too hard, and people were always telling me, "You're too big, you're too tall, you can only play bullies and you will never be a leading man.</ns1:quotes>
+    <ns1:quotes>I'm not known for having great relationships with ex-girlfriends, but I've been able to continue one with ['Gwyneth Paltrow' (qv)] that's really valuable.</ns1:quotes>
+    <ns1:quotes>[to 'Dee Dee Myers' (qv), when asked how people react to his campaigning for candidates he supports] Well, I mean, to be perfectly honest, probably the most effective things that celebrities do for political candidates is raise money. You know, that's something that you can do. And unlike, say, fund-raisers sponsored by -- you know, engineered by insurance companies or oil companies, at least what you can say for celebrities is they're not expecting, you know, deregulation of their industry in return. So that's one of things that I'm, I've been able to do and to try to help them do it. Other than that, you know, I've lived this sort of strange, sometimes unpleasant, but mostly very lucky life that's involved lately a lot of media attention. And one of the things that feels good to me to do is to try to steer that in a direction of something more significant and at least be -- try to create some political dialogue. And that's satisfying. Some people react to me kindly, and others don't. That's sort of the nature of politics. [Myers follows up: "Do you think it's kind of a risk for your career as movie star to get in bed with one party?"] Unequivocally. Absolutely. And I think that's why, you know, actually, people say, Well, you see all these celebrities. To my mind, you see very, very few. Most feel like, and probably correctly so, that to be identified with one side of the ideological fence or other risks alienating a segment of your audience that may like your movies, may want to buy your tickets, and in fact, may make it more difficult for them to suspend their disbelief when they go see you in a movie because they have you closely identified with something else. For me, part of that is already compromised, and it's also something that's interesting enough for me, and I don't care quite so much about that kind of image that I'm able to do it. But I think a lot of people shy away from it, and many celebrities you see who've gone out there, tried to be active, have gotten pretty beaten down, you know? And so I think there is a risk, yes. [July 27, 2004, quoted in the MSNBC Transcripts]</ns1:quotes>
+    <ns1:quotes>[told by 'David Gergen' (qv) that many were surprised by how well he "elucidated"] Well, David, I think I benefit from the same thing that helped 'George W. Bush' (qv) in the [2000] debates, which is tremendously low expectations.</ns1:quotes>
+    <ns1:quotes>I hate the whole reluctant sex-symbol thing. It's such bull. You see these dudes greased up, in their underwear, talking about how they don't want to be a sex symbol.</ns1:quotes>
+    <ns1:quotes>Part of the blogging culture that's good is it's made the traditional press much more nervous. They've become more accountable, because they are sensitive to what the bloggers are going to say. Most Americans don't spend the day waiting for what the bloggers are going to say. The mainstream media sweats it, because for the first time they are actually accountable to someone who is going to write about them and their work. Which has a real strong impact on the mainstream media and how they work.</ns1:quotes>
+    <ns1:quotes>God help me if I ever do another movie with an explosion in it. If you see me in a movie where stuff is exploding you'll know I've lost all my money.</ns1:quotes>
+    <ns1:quotes>I've finally learnt how to say, "No comment". To appear in the tabloids is a real learning curve and a steep one at that. You had better learn quick or you get burnt.</ns1:quotes>
+    <ns1:quotes>I feel like fame is wasted on me.</ns1:quotes>
+    <ns1:quotes>I remember back when I was a kid there was a comic strip called Plastic Man. His body was elastic and he could make his extremities as long as he wanted. As a youngster I didn't fully appreciate. But I'm now thinking Plastic Man was probably pretty popular with the ladies.</ns1:quotes>
+    <ns1:quotes>[on life after 'Gigli' and 'Jersey Girl'] Unfortunately there's an aspect of (press coverage) that's like one of those fights you see on YouTube where one of them falls down and then a bunch of people, who were standing around, come over to kick the person. They don't know them, they have no involvement in the fight, but they recognize a moment that they can get a free shot in. And for some people it's just too much to resist. And that was definitely me at that point. I was the guy. I was the designated person to loathe.</ns1:quotes>
+    <ns1:quotes>I'm always described as "cocksure" or "with a swagger", and that bears no resemblance to who I feel like inside. I feel plagued by insecurity.</ns1:quotes>
+    <ns1:quotes>Newspapers have gotten lazy and gotten nervous and started sourcing from blogs, and that, I think, is dangerous. Because you could pick any blog. I could start a blog tomorrow and write, 'I heard that so-and-so is an alien' -- a lot of false stories got started and got some currency because they were placed in blogs.</ns1:quotes>
+    <ns1:quotes>[on his struggles as an actor before becoming successful] I lived all over the place. I lived in Hollywood, then I moved. ['Matt Damon' (qv)] and I got money from _School Ties (1992)_ (qv), and we blew it all in a couple of months. We made $35,000 or $40,000 each and thought we were rich. And we were shocked later on to find out how much we owed in taxes. We were appalled: $15,000! What? But we rented this house on the beach in Venice and 800 people came and stayed with us and got drunk. Then we ran out of money and had to get an apartment. It was like everything was exciting. So we lived in Glendale and Eagle Rock and we lived in Hollywood, West Hollywood, Venice, by the Hollywood Bowl, all over the place. We'd get thrown out of some places or we'd have to upgrade or downgrade depending on who had money.</ns1:quotes>
+    <ns1:quotes>I think we don't need to know anything about a political figure's sex lives. I guess 'Matt Drudge' (qv) did break [the 'Monica Lewinsky' (qv)] story, if you think that's a story worth breaking. I think it was a story that bogged down the wheels of government for two years. I don't care, personally. Some people say that's a fair reflection of a candidate's character. I don't. I'm not voting for your sexual predilection, I'm voting for your policy positions.</ns1:quotes>
+    <ns1:quotes>[about the New York Yankees' principal owner] You know 'George M. Steinbrenner III' (qv) is the center of all evil in the universe.</ns1:quotes>
+    <ns1:quotes>[on starting out as a film director] I knew how the sausage was made. Whether I could make a good sausage I didn't know. But I knew how to get into the sausage factory and stuff intestines.</ns1:quotes>
+    <ns1:quotes>[on turning down the offer to direct Superman: _Man of Steel (2013)_ (qv)] - The one benefit of having done all kinds of movies as an actor is, you learn the pros and cons of being tempted to do a really big movie because it costs a lot of money. With "Superman", I think they're going to do a great version. 'Christopher Nolan (I)' (qv) is brilliant and they've got a great director for it. ... Also there are a lot of guys ahead of me on the list to do epic effects movies.</ns1:quotes>
+    <ns1:quotes>I never know what my next move will be in Hollywood. It's such an unpredictable town. People get jaded and lost and I've been able to stay a float. I think the next logical step in my career would be to start my own filmmaking empire like ['Harvey Weinstein' (qv)] and ['Bob Weinstein' (qv)] did so many years ago. I think if only the unions weren't so strict in Boston, I'd set up shop there and make films of a certain quality you don't see represented these days. I'm full of ideas and dreams.</ns1:quotes>
+    <ns1:quotes>[reviewing his career, 2013] I was nobody auditioning, and then I was seen as this young, emerging talent, writer, Oscar-winner, and then I was seen as this blockbuster actor, and then I was seen as this train-wreck actor, and then I was seen as this resurgent director. And now I think I'm kind of seen as just sort of somebody in Hollywood who works.</ns1:quotes>
+    <ns1:quotes>I was no longer in control of my life. I thought I wanted certain things, but I didn't. I got lost. I felt suffocated, miserable and gross. I should never have gone down that route or got sucked in to all the publicity. I was typecast as myself. Too many people weren't getting past what they read about me. That was damaging. I can tell from experience it's bad for you, and bad for your career. So I took a break, went away for a while and let things calm down. (Claiming that his high-profile engagement with 'Jennifer Lopez (I)' (qv) damaged his career.)</ns1:quotes>
+    <ns1:quotes>I kinda see my current position like this: "Here's your five minutes in the toy store, so you gotta do all the good movies you can before 'Chuck Woolery' (qv) rings the bell".</ns1:quotes>
+    <ns1:quotes>[asked by 'Dee Dee Myers' (qv) if he thought it was risky for his career to be identified with a particular political party] Unequivocally. Absolutely. And I think that's why, you know, actually, people say, "Well, you see all these celebrities". To my mind, you see very, very few. Most feel like, and probably correctly so, that to be identified with one side of the ideological fence or other risks alienating a segment of your audience that may like your movies, may want to buy your tickets, and in fact, may make it more difficult for them to suspend their disbelief when they go see you in a movie because they have you closely identified with something else. For me, part of that is already compromised, and it's also something that's interesting enough for me, and I don't care quite so much about that kind of image that I'm able to do it. But I think a lot of people shy away from it, and many celebrities you see who've gone out there, tried to be active, have gotten pretty beaten down, you know? And so I think there is a risk, yes.</ns1:quotes>
+    <ns1:quotes>Sure, I suffered a lot. But it's not like the end of the world and it's not who I am. I lead quite a pleasant life and I'm able to divorce a perceived reality from my actual experience of life.</ns1:quotes>
+    <ns1:quotes>It's like Christmas: it's all advertising, and the first rule of selling somebody something is to make them seem inadequate. Make them feel like they need it. Like fabric softener. Nobody really needs fabric softener and yet, all of a sudden, you feel like a jackass if you don't have fabric softener, so people buy it. And that's how Christmas has become, because 50% of all retail sales happen in December. You are bombarded with this stuff - money will make you happy, and keeping up with the Joneses. Obviously that stuff doesn't make you happy, otherwise there wouldn't be all these unhappy rich people. They'd all be happy in their jacuzzis and OK, some of them are.</ns1:quotes>
+    <ns1:quotes>[on "Argo" and the relationship between Hollywood and the government] There is a symbiotic relationship. People make movies about military. When you go on a tour with the military all these guys are movie buffs. Movies are a big part of our culture. The military, the movies, and our intelligence services are inventing things. For movies, it's for art and entertainment. For intelligence services, it's for God knows what. That's one of the themes of this story: the power of storytelling, whether it's political theater, relating to our children, or trying to get people out of danger. Telling stories is incredibly powerful. There's a shot I really like where there's this firing squad, then you go to this read through, and then there's a firearm, a rifle, and a camera. Hopefully this is subtle, but that suggests the camera is more powerful than the gun. I think that's been really warn out with the Youtube era.</ns1:quotes>
+    <ns1:quotes>I finally decided to quit smoking when I found out I was going to have a child. That was the thing that sort of put it over the top for me. I decided to go to a hypnotist. You sit in a chair and the hypnotist sips water and just talks to you for an hour, and explains how nicotine is poison. All of a sudden, I thought, 'This is asinine that I've been doing this to myself for all these years.' My last cigarette was on November 10th, 2005, and I feel a huge difference in my health now that I don't smoke. I feel like I'm in better shape than I was five years ago.</ns1:quotes>
+    <ns1:quotes>I'd love to do [direct] something like _Blade Runner (1982)_ (qv), but a lesson I've learned is to not look at movies based on budget, how much they'll spend on effects, or where they will shoot. Story is what's important.</ns1:quotes>
+    <ns1:quotes>[on the celebrity women the tabloids falsely link him to] Sometimes it's 'Britney Spears' (qv), and sometimes it's 'Carrie Fisher' (qv). I can't tell if I have a Lolita complex or an Oedipus complex.</ns1:quotes>
+    <ns1:quotes>[when asked why he thought 'George W. Bush' (qv), after hearing that New York was under attack on Sept 11, remained in a Florida classroom, doing nothing, for several minutes] It's obviously very disturbing footage. On the one hand, you see a reaction on a man's face that he is clearly pained and shocked. I probably did the same thing sitting on my chair. I was completely freaked out and a little devastated. On the other hand, one does hope that in one's leaders, that they have the instinct to spring into action, to take some action or make the appearance of taking some action. And I was disappointed to see that he didn't do that, although I don't entirely hold it against him because, frankly, I was as shocked and devastated as he was. Although I think flying around in Air Force One for 11 hours before coming back and landing in the White House was probably less forgivable.</ns1:quotes>
+    <ns1:quotes>I just feel like sometimes I'm a force to be dealt with. My talents are sometimes overused and also sometimes underused. It's not easy being me.</ns1:quotes>
+    <ns1:quotes>[when asked by 'Chris Matthews (VII)' (qv) what he thought about 'Whoopi Goldberg' (qv)'s remarks at a 'John Kerry (III)' (qv) fund raiser that resulted in her being fired as a spokesman for SlimFast] I wasn't there. I went to the Los Angeles fund raiser. I wasn't in the one in New York. I think when you have somebody -- you know, if you did a rock concert that was a benefit and 'The Who' (qv) played their music or 'The Rolling Stones' (qv), you'd expect to get, you know, "Satisfaction" or "My Generation." When you hire Whoopi Goldberg, you're going to get her brand of humor. And I think there is a fine line, and you have to be a little bit mindful. And I, for one, am not going to do any scatological jokes or puns about the president's last name on your show, mostly for that reason. But I also think I expect a different code of behavior maybe from comedians who have made a career with a certain kind of comedy than I do from, oh, say, the Vice President of the United States [referring to Vice President ['Dick Cheney' (qv), who told Vermont Sen. 'Patrick Leahy' (qv) to "Go fuck yourself" on the floor of the Senate], who used this vulgar language, you know, to a senator and was sort of unapologetic about it. So I think the Republicans hitting her [Whoopi] too hard for that is a little bit hypocritical.</ns1:quotes>
+    <ns1:quotes>[on his career path and choice of movies] I have definitely noticed that I care less about certain things. Other actors are like, "You can't do that", or "You can't do this. This will position you in the wrong way." That's not my thing. And obviously so, because you can see I don't craft or cultivate my career.</ns1:quotes>
+    <ns1:quotes>When I look up at the screen and see myself I always have to laugh. Not because I think I'm doing a horrible job, quite the contrary, I just feel it's so surreal to feel like one person can entertain so many at one time.</ns1:quotes>
+    <ns1:quotes>[answering a 'Chris Matthews (VII)' (qv) question about why Hollywood actors sometimes presume to be sophisticated about politics] Everyone's entitled to express their political beliefs. I don't presume to tell anybody who to vote for. I am comfortable telling people what my opinions are. But you have to look also to the media, where you have a vast majority of the loudest and most influential political voices in America media from people who came from the entertainment world. You have 'Rush Limbaugh' (qv), was a radio disc jockey. 'Bill O'Reilly (I)' (qv) came from _"Inside Edition" (1988)_ (qv). 'Michael Moore (II)' (qv)'s a filmmaker. 'Al Franken (I)' (qv) was on _"Saturday Night Live" (1975)_ (qv). The line is increasingly blurred between news and entertainment. Secondarily, the media's also shoving celebrities down our throats all the time. As a person, I'm much more interested in what an actor has to say about something substantial and important than who they're dating or what clothes they're wearing or some other asinine, insignificant aspect of their life.</ns1:quotes>
+    <ns4:birthday>15 August 1972</ns4:birthday>
+    <ns1:article rdf:resource="http://imdb.org/article/18268"/>
+    <ns1:article rdf:resource="http://imdb.org/article/18253"/>
+    <ns1:article rdf:resource="http://imdb.org/article/18260"/>
+    <ns1:article rdf:resource="http://imdb.org/article/18270"/>
+    <ns1:article rdf:resource="http://imdb.org/article/18276"/>
+    <ns1:article rdf:resource="http://imdb.org/article/18248"/>
+    <ns1:article rdf:resource="http://imdb.org/article/18250"/>
+    <ns1:article rdf:resource="http://imdb.org/article/18256"/>
+    <ns1:article rdf:resource="http://imdb.org/article/18252"/>
+    <ns1:article rdf:resource="http://imdb.org/article/18249"/>
+    <ns1:article rdf:resource="http://imdb.org/article/18261"/>
+    <ns1:article rdf:resource="http://imdb.org/article/18264"/>
+    <ns1:article rdf:resource="http://imdb.org/article/18273"/>
+    <ns1:article rdf:resource="http://imdb.org/article/18271"/>
+    <ns1:article rdf:resource="http://imdb.org/article/18272"/>
+    <ns1:article rdf:resource="http://imdb.org/article/18266"/>
+    <ns1:article rdf:resource="http://imdb.org/article/18269"/>
+    <ns1:article rdf:resource="http://imdb.org/article/18267"/>
+    <ns1:article rdf:resource="http://imdb.org/article/18262"/>
+    <ns1:article rdf:resource="http://imdb.org/article/18257"/>
+    <ns1:article rdf:resource="http://imdb.org/article/18254"/>
+    <ns1:article rdf:resource="http://imdb.org/article/18259"/>
+    <ns1:article rdf:resource="http://imdb.org/article/18255"/>
+    <ns1:article rdf:resource="http://imdb.org/article/18251"/>
+    <ns1:article rdf:resource="http://imdb.org/article/18274"/>
+    <ns1:article rdf:resource="http://imdb.org/article/18247"/>
+    <ns1:article rdf:resource="http://imdb.org/article/18263"/>
+    <ns1:article rdf:resource="http://imdb.org/article/18265"/>
+    <ns1:article rdf:resource="http://imdb.org/article/18275"/>
+    <ns1:article rdf:resource="http://imdb.org/article/18258"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/country/Italy">
+    <rdf:type rdf:resource="http://imdb.org/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/American_Cinematographer">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/USA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/interview/18074">
+    <rdf:type rdf:resource="http://imdb.org/Interview"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/337353"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Parade"/>
+    <ns2:title>Watch List - Ben Affleck</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/article/18256">
+    <rdf:type rdf:resource="http://imdb.org/Article"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/Wakas_Mir"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Hunks"/>
+    <ns2:title>Ben Affleck</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/interview/18095">
+    <rdf:type rdf:resource="http://imdb.org/Interview"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/Alan_Frutkin"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/The_Advocate"/>
+    <ns2:title>Chasing Ben</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/New_Zealand_TV_Guide">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/New_Zealand"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18033">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Premiere"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Parade">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/USA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/country/Scotland">
+    <rdf:type rdf:resource="http://imdb.org/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/TVFilm">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/Netherlands"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/person/JMB">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:name>JMB</ns4:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/article/18249">
+    <rdf:type rdf:resource="http://imdb.org/Article"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/Ileane_Rudolph"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/TV_Guide"/>
+    <ns2:title>Cause And Affleck</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18044">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Vox"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Newsday">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/USA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/article/18275">
+    <rdf:type rdf:resource="http://imdb.org/Article"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/Lael_Loewenstein"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Detour"/>
+    <ns2:title>Ben There</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18047">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Cinema"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/The_Independent_Newspaper_Extra">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/UK"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/country/Belgium">
+    <rdf:type rdf:resource="http://imdb.org/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/person/Gretchen_Edgren">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:name>Edgren, Gretchen </ns4:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18024">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/People"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Veronica">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/Netherlands"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18049">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/TV_Guide"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/person/Martin_Karen">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:name>Karen, Martin </ns4:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/pictorial/18233">
+    <rdf:type rdf:resource="http://imdb.org/Pictorial"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Playboy"/>
+    <ns2:title>Sex Stars - 2001</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/interview/18079">
+    <rdf:type rdf:resource="http://imdb.org/Interview"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/1952778"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Star"/>
+    <ns2:title>'Star' Talks To Ben Affleck</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Rolling_Stone">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/USA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/person/Bernard_Weinraub">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:name>Weinraub, Bernard </ns4:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Elokuva">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/Finland"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/interview/18082">
+    <rdf:type rdf:resource="http://imdb.org/Interview"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/Daniel_Fierman"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Entertainment_Weekly"/>
+    <ns2:title>Ben Affleck</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Max">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/Hungary"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/pictorial/18237">
+    <rdf:type rdf:resource="http://imdb.org/Pictorial"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Vox"/>
+    <ns2:title>A jövõ század színészei</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/person/Miwa_Hirai">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:name>Hirai, Miwa </ns4:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/country/France">
+    <rdf:type rdf:resource="http://imdb.org/Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/person/Péter_Rátky">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <ns4:name>Rátky, Péter </ns4:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Details">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/USA"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18043">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/YM"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/interview/18089">
+    <rdf:type rdf:resource="http://imdb.org/Interview"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/Bernard_Weinraub"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Playboy"/>
+    <ns2:title>The Playboy Interview</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Film_Review">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/UK"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/Urban_Cinefile">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/Australia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18036">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/People_Weekly"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/article/18258">
+    <rdf:type rdf:resource="http://imdb.org/Article"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/1918910"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Rolling_Stone"/>
+    <ns2:title>A Hollywood Ending</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/journal/The_Independent">
+    <rdf:type rdf:resource="http://imdb.org/Journal"/>
+    <ns1:country rdf:resource="http://imdb.org/country/UK"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/magazineCoverPhoto/18029">
+    <rdf:type rdf:resource="http://imdb.org/MagazineCoverPhoto"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Premiere"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/interview/18096">
+    <rdf:type rdf:resource="http://imdb.org/Interview"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/337357"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/GQ"/>
+    <ns2:title>First You Kiss a Guy</ns2:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://imdb.org/interview/18085">
+    <rdf:type rdf:resource="http://imdb.org/Interview"/>
+    <ns2:creator rdf:resource="http://imdb.org/person/717995"/>
+    <ns1:journal rdf:resource="http://imdb.org/journal/Elokuva"/>
+    <ns2:title>Ben Affleck - Nuori tähti kovan haasteen edessä</ns2:title>
+  </rdf:Description>
+</rdf:RDF>
